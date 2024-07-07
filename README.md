@@ -42,18 +42,18 @@ The JavaScript handles the app's logic, including weather search and animations.
 ## 📂 File Structure
 
 The project has the following file structure:
-weather-app/
-│
-├── images/
-│   ├── search.png
-│   ├── rain.png
-│   ├── humidity.png
-│   ├── wind.png
-│   └── (other weather icons)
-│
-├── index.html
-├── style.css
-└── script.js`
+- weather-app/
+- │
+- ├── images/
+- │   ├── search.png
+- │   ├── rain.png
+- │   ├── humidity.png
+- │   ├── wind.png
+- │   └── (other weather icons)
+- │
+- ├── index.html
+- ├── style.css
+- └── script.js`
 
 ### Images
 
